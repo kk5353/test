@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/middlewares/router/index.ts"],"names":[],"mappings":";;AAAA,2CAAmC;AAEnC,kBAAe,KAAK,IAAI,EAAE;IACxB,iBAAO,CAAC,IAAI,CAAC,KAAK,EAAE,GAAG,EAAE,IAAI,EAAE,EAAE;QAC/B,GAAG,CAAC,IAAI,GAAG,CAAC,CAAC,UAAU,CAAC,CAAC,CAAC,OAAO,CAAC,QAAQ,EAAE,gCAAgC,CAAC,CAAA;IAC/E,CAAC,CAAC,CAAA;IACF,OAAO,iBAAO,CAAA;AAChB,CAAC,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"log4js.js","sourceRoot":"","sources":["../../src/config/log4js.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACX,SAAS,EAAE;QACP,OAAO,EAAE,EAAE,IAAI,EAAE,SAAS,EAAE;KAE/B;IACD,UAAU,EAAE;QACR,OAAO,EAAE,EAAE,SAAS,EAAE,CAAC,SAAS,CAAC,EAAE,KAAK,EAAE,OAAO,EAAE;KACtD;CACJ,CAAA"}
